@@ -1,3 +1,5 @@
+**Note: This demo is for the older Alpha II release and will not work on the current release**
+
 This is a Dockerized golem requestor environment. It will allow you to execute a script on the golem network from your present working directory ($PWD).
 It also adds additional logging for debugging purposes.
 
